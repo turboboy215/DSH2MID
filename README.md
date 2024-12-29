@@ -17,6 +17,8 @@ Examples:
 
 This tool was based on my own reverse-engineering of the sound engine, partially based on disassembly of Aladdin's sound code.
 
+Also included is another program, DSH2TXT, which prints out information about the song data from each game. This is essentially a prototype of DSH2MID.
+
 Supported games:
   * Aladdin (GBC)
   * Cruis'n Exotica
